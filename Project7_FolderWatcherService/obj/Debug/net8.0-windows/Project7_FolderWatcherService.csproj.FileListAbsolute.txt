@@ -1,0 +1,15 @@
+D:\windows\Project7_FolderWatcherService\bin\Debug\net8.0-windows\Project7_FolderWatcherService.exe
+D:\windows\Project7_FolderWatcherService\bin\Debug\net8.0-windows\Project7_FolderWatcherService.deps.json
+D:\windows\Project7_FolderWatcherService\bin\Debug\net8.0-windows\Project7_FolderWatcherService.runtimeconfig.json
+D:\windows\Project7_FolderWatcherService\bin\Debug\net8.0-windows\Project7_FolderWatcherService.dll
+D:\windows\Project7_FolderWatcherService\bin\Debug\net8.0-windows\Project7_FolderWatcherService.pdb
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\Project7_FolderWatcherService.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\Project7_FolderWatcherService.AssemblyInfoInputs.cache
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\Project7_FolderWatcherService.AssemblyInfo.cs
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\Project7_FolderWatcherService.csproj.CoreCompileInputs.cache
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\Project7_FolderWatcherService.dll
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\refint\Project7_FolderWatcherService.dll
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\Project7_FolderWatcherService.pdb
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\Project7_FolderWatcherService.genruntimeconfig.cache
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\ref\Project7_FolderWatcherService.dll
+D:\windows\Project7_FolderWatcherService\obj\Debug\net8.0-windows\Project7.5D9B07F9.Up2Date
